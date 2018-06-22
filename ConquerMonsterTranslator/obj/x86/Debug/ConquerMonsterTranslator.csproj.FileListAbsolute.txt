@@ -1,0 +1,9 @@
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\ConquerMonsterTranslator.Form1.resources
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\ConquerMonsterTranslator.Properties.Resources.resources
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\bin\Debug\ConquerMonsterTranslator.exe
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\bin\Debug\ConquerMonsterTranslator.pdb
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\ConquerMonsterTranslator.exe
+c:\users\darkhc\documents\visual studio 2010\Projects\ConquerMonsterTranslator\ConquerMonsterTranslator\obj\x86\Debug\ConquerMonsterTranslator.pdb
